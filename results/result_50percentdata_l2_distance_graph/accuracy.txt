@@ -1,0 +1,11 @@
+Epoch 0: Train Loss = 2.4145, Test Loss = 2.7760, Test Acc = 0.1612
+Epoch 10: Train Loss = 1.8192, Test Loss = 1.6677, Test Acc = 0.3886
+Epoch 20: Train Loss = 1.6104, Test Loss = 1.5155, Test Acc = 0.4534
+Epoch 30: Train Loss = 1.5144, Test Loss = 1.4329, Test Acc = 0.4820
+Epoch 40: Train Loss = 1.4492, Test Loss = 1.3884, Test Acc = 0.4976
+Epoch 50: Train Loss = 1.4176, Test Loss = 1.3580, Test Acc = 0.5080
+Epoch 60: Train Loss = 1.3934, Test Loss = 1.3363, Test Acc = 0.5208
+Epoch 70: Train Loss = 1.3612, Test Loss = 1.3201, Test Acc = 0.5286
+Epoch 80: Train Loss = 1.3466, Test Loss = 1.3066, Test Acc = 0.5342
+Epoch 90: Train Loss = 1.3350, Test Loss = 1.3005, Test Acc = 0.5380
+Original Graph Neural Network Test Accuracy: 0.5404

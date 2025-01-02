@@ -1,0 +1,19 @@
+Subgraph Performance Results:
+
+Degree Sampling Strategy:
+Sample Ratio: 0.2, Test Accuracy: 0.3700
+Sample Ratio: 0.3, Test Accuracy: 0.3393
+Sample Ratio: 0.4, Test Accuracy: 0.4005
+Sample Ratio: 0.5, Test Accuracy: 0.4200
+
+Random Sampling Strategy:
+Sample Ratio: 0.2, Test Accuracy: 0.4510
+Sample Ratio: 0.3, Test Accuracy: 0.3107
+Sample Ratio: 0.4, Test Accuracy: 0.3180
+Sample Ratio: 0.5, Test Accuracy: 0.3436
+
+Pagerank Sampling Strategy:
+Sample Ratio: 0.2, Test Accuracy: 0.3680
+Sample Ratio: 0.3, Test Accuracy: 0.3393
+Sample Ratio: 0.4, Test Accuracy: 0.3720
+Sample Ratio: 0.5, Test Accuracy: 0.2144

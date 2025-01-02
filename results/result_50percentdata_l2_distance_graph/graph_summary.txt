@@ -1,0 +1,5 @@
+Graph Statistics:
+Number of Nodes: 25000
+Number of Edges: 1222616
+Average Node Degree: 97.81
+
