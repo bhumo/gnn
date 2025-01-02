@@ -8,5 +8,13 @@ The result contains the final graph created using the above idea and finally, th
 
 After, that the subgraph which gives the optimal information is extracted.
 
-Final code for the construction of the graph with memory efficiency and performance evaluation of the subgraphs can be regenrated using the code gnn_v5_visualize_graph.py
+Final code for the construction of the graph with memory efficiency and performance evaluation of the subgraphs can be regenrated using the code gnn_v5_visualize_graph.py and for subgraph please use the code subgraph_v1.py
+
+Constructed Graph :
+![GNN for 50% dataset](results//result_with50percentdata_subgraph/similarity_graph.png)
+
+Loss Plot for Graph Learning:
+![Loss plot 50% dataset](results/result_with50percentdata_subgraph/loss_plot.png)
+
+
 
